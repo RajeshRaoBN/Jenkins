@@ -1,0 +1,19 @@
+#Plugins to be added to Jenkins
+
+1) SonarQube Scanner
+2) Eclipse Temurin Installer (JDK)
+3) Docker
+4) Docker Pipeline
+5) Docker Commons
+6) Docker-build-step
+7) OWASP Dependency-Check
+
+Now in the tools
+
+Select the JDK 17
+
+Docker and Maven3 the latest version and apply.
+
+Use the git repository 
+
+https://github.com/jaiswaladi246/Ekart
